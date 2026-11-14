@@ -1,0 +1,5 @@
+app_name: devops-demo
+docker_image: devops-demo:1.0
+container_name: devops-demo-container
+host_port: 8082
+container_port: 8080
