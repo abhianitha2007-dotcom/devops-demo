@@ -11,3 +11,5 @@ A Spring Boot application developed for the DevOps project.
 ## Health Endpoint
 http://localhost:8080/actuator/health
 Testing Jenkins automatic trigger
+
+and docker file
